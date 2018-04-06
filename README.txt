@@ -1,1 +1,1 @@
-hugoburbelo.github.io
+burbelohugo.github.io
